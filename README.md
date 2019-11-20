@@ -1,4 +1,4 @@
-MP Project
+MProject
 
 Version 0.0
 
